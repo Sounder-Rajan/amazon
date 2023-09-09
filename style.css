@@ -1,0 +1,711 @@
+/* <!-- pre header starts --> */
+.loc{
+    font-size: 24px;
+    position: absolute;
+    top: 12px;
+    left: 142px;
+    cursor: pointer;
+}
+.dots{
+    color: white;
+    cursor: pointer;
+}
+.hel{
+    margin-left: 42px;
+    position: absolute;
+    top: 18px;
+    font-size: 13px;
+    color: white;
+    cursor: pointer;
+}
+.sel{
+    margin-left: 42px;
+    position: absolute;
+    top: 32px;
+    font-size: 16px;
+    color: white;
+    cursor: pointer;
+}
+.nav-item1{
+    position: absolute;
+    left: 323px;
+    background: gray;
+    border-radius: 6px
+}
+.nav-link {
+    color: black;
+    cursor: pointer;
+}
+.nav-link:hover{
+    color: black;  
+}
+.dropdown-menu{
+    overflow: scroll;
+}
+.form-control {
+    margin-left: 245px;
+}
+.searchs{
+    background: orange;
+    height: 38px;
+    width: 40px;
+    position: relative;
+    left: -25px;
+    border-radius: 8px;
+    font-size: 21px;
+}
+.search{
+    position: relative;
+    left: 7px;
+}
+.en{
+    display: inline-block;
+    font-size: 15px;
+    margin-left: 10px;
+    color: white;
+}
+.ens{
+    display: inline-block;
+    font-size: 10px;
+    margin-left: 0px;
+    color: grey;
+}
+.ense{
+    display: inline-block;
+    font-size: 10px;
+    margin-left: 163px;
+    color: grey;
+    margin-top: 22px;
+}
+.cart{
+    margin-left: 181px;
+    margin-top: 23px;
+    color: white;
+    font-size: 16px;
+}
+.shop{
+    margin-left: 139px;
+    position: absolute;
+    top: 13px;
+    cursor: pointer;
+    font-size: 26px;
+    color: white;
+}
+
+/* <!-- pre header ends --> */
+
+
+/* <!-- header section starts --> */
+.item1{
+    display: inline-block;
+    color: white;
+    position: relative;
+    top: 13px;
+    left: 21px;
+    cursor: pointer;
+}
+.navbar-brand1{
+    color: white;
+    font-family: 'Noto Sans', sans-serif;
+    display: inline-block;
+    position: relative;
+    font-size: 17px;
+    font-weight: 900;
+    left: 21px;
+    top: 11px;
+    cursor: pointer;
+}
+.nav-item{
+    display: inline-block;
+    color: white;
+    position: relative;
+    margin-left: 12px;
+    font-size: 15px;
+    cursor: pointer;  
+}
+.nav-item:hover{
+   background: white;
+    position: relative;
+    display: inline-block;
+    font-size: 15px;
+    cursor: pointer;  
+    transition: 0.3s ease-out;
+    color: black;
+}
+.navbar-nav1{
+    position: relative;
+    margin-top: -20px;
+    top: 0px;
+    left: 31px;
+    display: inline-block;
+    cursor: pointer;
+}
+.nav2{
+    display: inline-block;
+    font-size: 15px;
+    color: white;
+    margin-top: -26px;
+    left: 75px;
+    position: relative;
+    cursor: pointer;
+}
+.nav2:hover{
+    display: inline-block;
+    background: white;
+    transition: 0.3s ease-out;
+    color: black;
+}
+/* <!-- header section ends --> */
+
+/* <!-- carousole section starts --> */
+.carousel-item{
+    height: 300px;
+}
+/* <!-- carousole section ends --> */
+
+/* <!-- container section starts --> */
+/* <!-- sec1 starts--> */
+.container-fluid{
+    background-color: #BBBFBF;
+    height: 100%;
+    width: 100%;
+}
+.col{
+    background: white;
+    height: 400px;
+    width: 230px;
+    margin-left: 14px;
+    margin-top: 32px;
+}
+.lap-img{
+    background-image: url('lap.jpg');
+    height: 285px;
+    width: 322px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: absolute;
+    top: 78px;
+    cursor: pointer;
+}
+.up{
+    font-family: Arial,sans-serif;
+    font-size: 22px;
+    font-weight: 600;
+    position: absolute;
+    top: 27px;
+}
+.a-truncate-cut{
+    position: absolute;
+    top: 298px;
+    left: 6px;
+    font-size: 14px;
+    color: blue;
+    cursor: pointer;
+}
+.a-truncate-cut:hover{
+    color: orangered;
+}
+.col1{
+    height: 222px;
+    width: 222px;
+}
+.col2{
+    height: 222px;
+    width: 222px;
+}
+.ups{
+    font-family: Arial,sans-serif;
+    font-size: 22px;
+    font-weight: 600;
+    position: absolute;
+    top: 27px;
+}
+.cont-1{
+    height: 100px;
+    width: 153px;
+    display: inline-block;
+    margin-left: 5px;
+    margin-top: 33px;
+    position: relative;
+    top: 62px;
+}
+.al-truncate-cut{
+    position: absolute;
+    top: 374px;
+    left: 21px;
+    font-size: 14px;
+    color: blue;
+    cursor: pointer;
+}
+.al-truncate-cut:hover{
+    color: orangered;
+}
+.diaper-img{
+    background-image: url(diapers.jpg);
+    height: 100px;
+    width: 153px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: absolute;
+    top: 0px;
+    cursor: pointer;
+}
+.diaper-img1{
+    background-image: url(diaper2.jpg);
+    height: 100px;
+    width: 153px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: absolute;
+    top: 0px;
+    cursor: pointer;
+}
+
+.diaper-img2{
+    background-image: url(diaper3.jpg);
+    height: 100px;
+    width: 153px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: absolute;
+    top: 0px;
+    cursor: pointer;
+}
+
+.diaper-img3{
+    background-image: url(diaper4.jpg);
+    height: 100px;
+    width: 153px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: absolute;
+    top: 0px;
+    cursor: pointer;
+}
+.cont-txt{  
+display: inline-block;   
+position: absolute; 
+top: 101px; 
+font-size: 12px;
+}
+.auto-img{
+    background-image: url(auto1.jpg);
+    height: 100px;
+    width: 153px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: absolute;
+    top: 0px;
+    cursor: pointer;
+}
+.auto-img1{
+    background-image: url(auto2.jpg);
+    height: 100px;
+    width: 153px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: absolute;
+    top: 0px;
+    cursor: pointer;
+}
+.auto-img2{
+    background-image: url(auto3.jpg);
+    height: 100px;
+    width: 153px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: absolute;
+    top: 0px;
+    cursor: pointer;
+}
+.auto-img3{
+    background-image: url(auto4.jpg);
+    height: 100px;
+    width: 153px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: absolute;
+    top: 0px;
+    cursor: pointer;
+}
+.conta-1{
+    background: whitesmoke;
+    height: 145px;
+    width: 352px;
+    position: relative;
+    left: -15px;
+}
+.conta-2{
+    height: 229px;
+    width: 280px;
+    position: relative;
+    top: 27px;
+    left: 18px;
+    background-image: url(autos.jpg);
+}
+.upsi{
+    font-family: Arial,sans-serif;
+    font-size: 23px;
+    font-weight: 600;
+    position: absolute;
+    top: 27px;
+    left: 14px;
+}
+.btn{
+    position: relative;
+    top: 92px;
+    background: orange;
+    width: 303px;
+    left: 14px;
+    height: 34px;
+    border-radius: 13px;
+}
+/* <!-- sec1 ends --> */
+
+/* <!-- sec2 starts --> */
+.conta1{
+    height: 100px;
+    width: 153px;
+    display: inline-block;
+    margin-left: 5px;
+    margin-top: 33px;
+    position: relative;
+    top: 62px;
+}
+.ac-img1{
+    background-image: url(ac/ac1.jpg);
+    height: 100px;
+    width: 153px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: absolute;
+    top: 0px;
+    cursor: pointer;
+}
+.ac-img2{
+    background-image: url(ac/ac2.jpg);
+    height: 100px;
+    width: 153px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: absolute;
+    top: 0px;
+    cursor: pointer;
+}
+.ac-img3{
+    background-image: url(ac/ac3.jpg);
+    height: 100px;
+    width: 153px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: absolute;
+    top: 0px;
+    cursor: pointer;
+}
+
+.ac-img4{
+    background-image: url(ac/ac4.jpg);
+    height: 100px;
+    width: 153px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: absolute;
+    top: 0px;
+    cursor: pointer;
+}
+.tools-img{
+    background-image: url(ac/tools1.jpg);
+    height: 100px;
+    width: 153px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: absolute;
+    top: 0px;
+    cursor: pointer;
+}
+.tools-img1{
+    background-image: url(ac/tools2.jpg);
+    height: 100px;
+    width: 153px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: absolute;
+    top: 0px;
+    cursor: pointer;
+}
+
+.tools-img2{
+    background-image: url(ac/tools3.jpg);
+    height: 100px;
+    width: 153px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: absolute;
+    top: 0px;
+    cursor: pointer;
+}
+
+.tools-img3{
+    background-image: url(ac/tools4.jpg);
+    height: 100px;
+    width: 153px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: absolute;
+    top: 0px;
+    cursor: pointer;
+}
+.clothing-img1{
+    background-image: url(ac/clothing1.jpg);
+    height: 100px;
+    width: 153px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: absolute;
+    top: 0px;
+    cursor: pointer;
+} 
+.clothing-img2{
+    background-image: url(ac/clothing2.jpg);
+    height: 100px;
+    width: 153px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: absolute;
+    top: 0px;
+    cursor: pointer;
+} 
+.clothing-img3{
+    background-image: url(ac/clothing3.jpg);
+    height: 100px;
+    width: 153px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: absolute;
+    top: 0px;
+    cursor: pointer;
+} 
+.clothing-img4{
+    background-image: url(ac/clothing4.jpg);
+    height: 100px;
+    width: 153px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: absolute;
+    top: 0px;
+    cursor: pointer;
+} 
+.travel-img1{
+    background-image: url(ac/travel1.jpg);
+    height: 100px;
+    width: 153px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: absolute;
+    top: 0px;
+    cursor: pointer;
+}
+.travel-img2{
+    background-image: url(ac/travel2.jpg);
+    height: 100px;
+    width: 153px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: absolute;
+    top: 0px;
+    cursor: pointer;
+}
+.travel-img3{
+    background-image: url(ac/travel3.jpg);
+    height: 100px;
+    width: 153px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: absolute;
+    top: 0px;
+    cursor: pointer;
+}
+.travel-img4{
+    background-image: url(ac/travel4.jpg);
+    height: 100px;
+    width: 153px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: absolute;
+    top: 0px;
+    cursor: pointer;
+}
+
+/* <!-- sec2 starts --> */
+
+/* <!-- sec3 starts --> */
+.but{
+    font-size: 17px;
+    position: relative;
+    top: 23px;
+    background: brown;
+    left: 5px;
+    width: 120px;
+    border-radius: 5px;
+    height: 23px;
+    color: white;
+}
+
+/* <!-- sec3 ends --> */
+
+/* <!-- sec4 starts --> */
+.da-block{
+    width: 272px;
+    top: 10px;
+    position: relative;
+}
+/* <!-- sec4 ends --> */
+
+/* <!-- sec5 starts --> */
+.imge{
+    height: 252px;
+    width: 813px;
+    position: relative;
+    left: 355px;
+    top: 22px;
+}
+.icon{
+    font-size: 30px;
+    position: absolute;
+    color: white;
+    margin-top: 113px;
+    background: gray;
+    height: 50px;
+    width: 50px;
+    border-radius: 56px;
+    border: 2px solid;
+}
+.fa{
+    position: relative;
+    left: 14px;
+    top: 0px;
+}
+/* <!-- sec5 ends --> */
+
+/* <!-- container section ends --> */
+
+/* <!-- sign in starts --> */
+
+.btns{
+    position: relative;
+    top: 100px;
+    background: orange;
+    width: 273px;
+    left: 354px;
+    height: 34px;
+    border-radius: 10px;
+}
+.sees{
+    display: inline-block;
+    position: relative;
+    top: 45px;
+    left: 629px;
+    font-size: 17px;
+}
+.new{
+    display: inline-block;
+    position: relative;
+    top: 141px;
+    left: 135px;
+    font-size: 13px;
+}
+.sign{
+    height: 224px;
+    top: 46px;
+    position: relative;
+    border: 2px solid black;
+    border-radius: 12px;
+}
+/* <!-- sign in ends --> */
+
+/* <!-- last sec starts --> */
+.boxs{
+    background: gray;
+    height: 52px;
+    width: 100%;
+    position: relative;
+    top: 46px;
+}
+.top{
+    display: inline-block;
+    position: relative;
+    top: 15px;
+    left: 730px;
+    font-size: 20px;
+    color: white;
+}
+
+
+.box1{
+    background: rgb(26, 26, 43);
+    height: 494px;
+    width: 100%;
+}
+.get-txt{
+    color: white;
+    position: relative;
+    display: inline-block;
+    left: 18px;
+    top: 12px;
+    font-size: 21px;
+}
+.listss-text{
+    color: wheat;
+    position: relative;
+    top: 23px;
+  cursor: pointer;
+  display: block;
+}
+.caree{
+    height: 341px;
+    width: 246px;
+    display: inline-block;
+    top: -40px;
+    position: relative;
+    left: 192px;
+    margin-left: 32px;
+}
+.carees{
+    height: 341px;
+    width: 246px;
+    display: inline-block;
+    top: 104px;
+    position: relative;
+    left: 192px;
+    margin-left: 32px;
+}
+.careess{
+    height: 341px;
+    width: 246px;
+    display: inline-block;
+    top: 33px;
+    position: relative;
+    left: 192px;
+    margin-left: 32px;
+}
+.careesss{
+    height: 341px;
+    width: 246px;
+    display: inline-block;
+    top: -40px;
+    position: relative;
+    left: 192px;
+    margin-left: 32px;
+}
+
+
+
+
+
+
+
+
+
+
+
+/* <!-- last sec ends --> */
